@@ -46,39 +46,6 @@
   </entry>
   
   <entry>
-    <title>中文测试</title>
-    <link href="https://clownfish7.github.io/2021/12/12/%E4%B8%AD%E6%96%87%E6%B5%8B%E8%AF%95/"/>
-    <id>https://clownfish7.github.io/2021/12/12/%E4%B8%AD%E6%96%87%E6%B5%8B%E8%AF%95/</id>
-    <published>2021-12-12T11:51:09.000Z</published>
-    <updated>2021-12-14T02:02:04.884Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html"></summary>
-        
-      
-    
-    
-    
-    <category term="Diary" scheme="https://clownfish7.github.io/categories/Diary/"/>
-    
-    <category term="PlayStation" scheme="https://clownfish7.github.io/categories/Diary/PlayStation/"/>
-    
-    <category term="Games" scheme="https://clownfish7.github.io/categories/Diary/Games/"/>
-    
-    <category term="Life" scheme="https://clownfish7.github.io/categories/Life/"/>
-    
-    
-    <category term="PS3" scheme="https://clownfish7.github.io/tags/PS3/"/>
-    
-    <category term="Games" scheme="https://clownfish7.github.io/tags/Games/"/>
-    
-  </entry>
-  
-  <entry>
     <title>helloClownfish7</title>
     <link href="https://clownfish7.github.io/2021/12/12/helloClownfish7/"/>
     <id>https://clownfish7.github.io/2021/12/12/helloClownfish7/</id>
@@ -100,9 +67,42 @@
     
     <category term="PlayStation" scheme="https://clownfish7.github.io/categories/Diary/PlayStation/"/>
     
+    <category term="Life" scheme="https://clownfish7.github.io/categories/Life/"/>
+    
     <category term="Games" scheme="https://clownfish7.github.io/categories/Diary/Games/"/>
     
+    
+    <category term="PS3" scheme="https://clownfish7.github.io/tags/PS3/"/>
+    
+    <category term="Games" scheme="https://clownfish7.github.io/tags/Games/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>中文测试</title>
+    <link href="https://clownfish7.github.io/2021/12/12/%E4%B8%AD%E6%96%87%E6%B5%8B%E8%AF%95/"/>
+    <id>https://clownfish7.github.io/2021/12/12/%E4%B8%AD%E6%96%87%E6%B5%8B%E8%AF%95/</id>
+    <published>2021-12-12T11:51:09.000Z</published>
+    <updated>2021-12-14T02:02:04.884Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="Diary" scheme="https://clownfish7.github.io/categories/Diary/"/>
+    
+    <category term="PlayStation" scheme="https://clownfish7.github.io/categories/Diary/PlayStation/"/>
+    
     <category term="Life" scheme="https://clownfish7.github.io/categories/Life/"/>
+    
+    <category term="Games" scheme="https://clownfish7.github.io/categories/Diary/Games/"/>
     
     
     <category term="PS3" scheme="https://clownfish7.github.io/tags/PS3/"/>
