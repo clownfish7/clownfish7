@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>Hello World</title>
-    <url>/Life/ckx5ocz2r0003w4tyc4b7fxo6.html</url>
+    <url>/Life/ckx5om2km0003w8ty4pqn3wqa.html</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 
@@ -29,9 +29,9 @@
       </tags>
   </entry>
   <entry>
-    <title>中文测试123</title>
-    <url>/Diary/Games/ChineseTest.html</url>
-    <content><![CDATA[<h1 id="hello中文"><a href="#hello中文" class="headerlink" title="hello中文"></a>hello中文</h1><p>hello</p>
+    <title>helloClownfish7</title>
+    <url>/Diary/Games/ckx5om2ko0005w8tyh3zwessy.html</url>
+    <content><![CDATA[<h1 id="hello"><a href="#hello" class="headerlink" title="hello"></a>hello</h1><p>hello</p>
 ]]></content>
       <categories>
         <category>Diary</category>
@@ -45,9 +45,9 @@
       </tags>
   </entry>
   <entry>
-    <title>helloClownfish7</title>
-    <url>/Diary/Games/ckx5ocz2v0008w4ty5xrg7ksv.html</url>
-    <content><![CDATA[<h1 id="hello"><a href="#hello" class="headerlink" title="hello"></a>hello</h1><p>hello</p>
+    <title>中文测试123</title>
+    <url>/Diary/Games/ChineseTest.html</url>
+    <content><![CDATA[<h1 id="hello中文"><a href="#hello中文" class="headerlink" title="hello中文"></a>hello中文</h1><p>hello</p>
 ]]></content>
       <categories>
         <category>Diary</category>
